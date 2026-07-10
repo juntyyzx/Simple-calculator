@@ -49,5 +49,11 @@ body {
     cursor: pointer;
 }
 
+.calc-button:hover {
+    background-color: rgba(255, 255, 255, 0.6);
+}
 
+.calc-button:active {
+    background-color: #ffffff;
+}
 
